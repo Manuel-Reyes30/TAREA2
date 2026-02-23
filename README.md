@@ -18,8 +18,8 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: 
-Deploy:
+Repositorio en GitHub: https://github.com/Manuel-Reyes30/TAREA2
+Deploy: https://manuel-reyes30.github.io/TAREA2/
 ---
 
 ## 📝 Reflexión
